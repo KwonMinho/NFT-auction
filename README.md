@@ -5,10 +5,10 @@ toy project for NestJS,NFT web auction project
 
 project structure: https://github.com/CatsMiaow/node-nestjs-structure
 # 목적
-- NestJS 학습
+- NestJS 및 Typescript 학습
 - AWS에 학습 및 배포
 - 테스트 케이스 작성
-- 실제 서비스 출시
+- 실제 사용 애플리케이션 운영
 # 기능 스케치
 
 - nft 등록
